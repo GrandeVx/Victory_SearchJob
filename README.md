@@ -5,8 +5,7 @@ Victory Search Job is a Template that allows you to search any information withi
 # Essential
 
  1 :: Mysql https://github.com/brouznouf/fivem-mysql-async
-
-
+ 2 ::  start **Victory_SearchJob** in the server.cfg 
 # Tutorial 
 
 The syntax for the search used is: (**SELECT job, job_grade FROM users WHERE identifier LIKE @identifier**)
