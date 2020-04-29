@@ -4,7 +4,7 @@ Victory Search Job is a Template that allows you to search any information withi
 
 # Essential
 
- 1 :: Mysql https://github.com/brouznouf/fivem-mysql-async
+ 1 :: Mysql https://github.com/brouznouf/fivem-mysql-async    // In the **same** folder 
  
  2 ::  start **Victory_SearchJob** in the server.cfg 
 
